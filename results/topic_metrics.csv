@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+TF-IDF + Linear SVM,0.792,0.797
+TF-IDF + Logistic Regression,0.788,0.793
+MiniLM embeddings + Logistic Regression,0.729,0.736

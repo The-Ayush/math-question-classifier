@@ -1,0 +1,4 @@
+model,MAE,exact_acc,within_1_level
+TF-IDF + Ridge,0.809,0.35,0.851
+MiniLM embeddings + Ridge,0.866,0.323,0.824
+Baseline (always predict mean level),1.111,0.243,0.734
